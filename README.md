@@ -61,9 +61,17 @@ Switch(config-if-range)# exit<br>
 ________________________________________
 # Output (Screenshots)
 •	VLAN configuration on switch<br>
+<img width="1919" height="1078" alt="Screenshot 2025-09-01 135850" src="https://github.com/user-attachments/assets/784db128-c21d-46d9-a9c6-1cf20f6be4e3" />
+
 •	PC IP settings<br>
+<img width="1911" height="1077" alt="Screenshot 2025-09-01 135914" src="https://github.com/user-attachments/assets/4e72d3ff-46c6-4135-8996-141688717f58" />
+
 •	Successful ping between PCs in the same VLAN<br>
+<img width="1919" height="1079" alt="Screenshot 2025-09-01 135448" src="https://github.com/user-attachments/assets/653b32b7-6154-4621-9a1f-620fb1230505" />
+
 •	Failed ping between PCs in different VLANs<br>
+<img width="1919" height="1079" alt="Screenshot 2025-09-01 140653" src="https://github.com/user-attachments/assets/81345d18-49bb-4a72-813f-3aadcfc2206e" />
+
 ________________________________________
 # Result
 Successfully created and configured VLANs on a managed switch. Verified that only PCs within the same VLAN could communicate with each other.
